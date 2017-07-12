@@ -16,13 +16,25 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+            <state relative-caret-position="382">
+              <caret line="135" column="34" lean-forward="true" selection-start-line="131" selection-start-column="28" selection-end-line="135" selection-end-column="34" />
               <folding>
-                <marker date="1499885354000" expanded="false" signature="5148:5154" ph="©" />
+                <element signature="e#5152#5158#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="no-sidebar.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/no-sidebar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="79" column="71" lean-forward="true" selection-start-line="79" selection-start-column="71" selection-end-line="79" selection-end-column="71" />
+              <folding>
+                <element signature="e#9334#9340#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -38,6 +50,7 @@
       <list>
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/no-sidebar.html" />
       </list>
     </option>
   </component>
@@ -213,7 +226,7 @@
   <component name="ToolWindowManager">
     <frame x="405" y="26" width="1028" height="757" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -251,10 +264,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+        <state relative-caret-position="382">
+          <caret line="135" column="34" lean-forward="true" selection-start-line="131" selection-start-column="28" selection-end-line="135" selection-end-column="34" />
           <folding>
-            <marker date="1499885354000" expanded="false" signature="5148:5154" ph="©" />
+            <element signature="e#5152#5158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no-sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="79" column="71" lean-forward="true" selection-start-line="79" selection-start-column="71" selection-end-line="79" selection-end-column="71" />
+          <folding>
+            <element signature="e#9334#9340#0" expanded="true" />
           </folding>
         </state>
       </provider>
