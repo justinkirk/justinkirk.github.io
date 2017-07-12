@@ -1114,7 +1114,7 @@
 
 	strong, b {
 		font-weight: 700;
-		color: #484d55;
+		color: #ffffff;
 	}
 
 	blockquote {
@@ -1600,7 +1600,7 @@
 			}
 
 	#header-wrapper {
-		background: url("../../images/profile.jpg") center center;
+		background: url("../../images/profile1.jpg") center center;
 		background-size: cover;
 	}
 	/* delete this */
@@ -1708,13 +1708,15 @@
 		font-weight: 900;
 		text-transform: uppercase;
 		color: #fff;
-		color: rgba(0, 0, 0, .75);
+		color: rgba(255, 255, 255, 1);
+		text-shadow: 1.5px 1.5px black;
 	}
 
 	#logo p {
 		color: #eee;
-		color: rgba(0, 0, 0, .5);
+		color: rgba(255, 255, 255, 1);
 		text-transform: uppercase;
+		text-shadow: 1px 1px black;
 	}
 
 /* Intro */
@@ -2020,7 +2022,7 @@
 				#nav > ul {
 					display: inline-block;
 					border-radius: 0.35em;
-					box-shadow: inset 0px 0px 1px 1px rgba(0, 0, 0, 0.25);
+					box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.75);
 					padding: 0 1.5em 0 1.5em;
 				}
 
@@ -2037,7 +2039,7 @@
 						#nav > ul > li > a, #nav > ul > li > span {
 							display: block;
 							color: #eee;
-							color: rgba(0, 0, 0, 0.75);
+							color: rgba(255, 255, 255, 0.75);
 							text-transform: uppercase;
 							text-decoration: none;
 							font-size: 0.7em;
