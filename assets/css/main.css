@@ -1588,9 +1588,27 @@
 				color: #fff;
 			}
 
-		.wrapper.style2 {
+		.wrapper.style23 {
 			background: url("../../images/banner4.jpg") center center;
 			background-size: cover;
+			color: rgba(255, 255, 255, 1);
+		}
+
+			.wrapper.style23 .title {
+				background: rgba(255, 255, 255, 0.5);
+				color: #fff;
+			}
+
+			.wrapper.style23 h1, .wrapper.style23 h2, .wrapper.style23 h3, .wrapper.style23 h4, .wrapper.style23 h5, .wrapper.style23 h6, .wrapper.style23 strong, .wrapper.style23 b, .wrapper.style23 a {
+				color: #fff;
+				text-align: center;
+			}
+			.wrapper.style23 .image {
+				border: solid 10px rgba(255, 255, 255, 0.5);
+			}
+
+		.wrapper.style2 {
+			background: #838383 url("images/overlay.png");
 			color: rgba(255, 255, 255, 1);
 		}
 
