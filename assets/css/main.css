@@ -1602,9 +1602,10 @@
 	#header-wrapper {
 		background: url("../../images/profile1.jpg") center center;
 		background-size: cover;
+		background-position: top;
 	}
 	/* delete this */
-		/*#header-wrapper:before {
+		#header-wrapper:before {
 			content: '';
 			position: absolute;
 			top: 0;
@@ -1612,7 +1613,7 @@
 			width: 100%;
 			height: 100%;
 			background: url("images/overlay.png");
-		}*/
+		}
 
 	#footer-wrapper {
 		background: #282b34 url("images/overlay.png");
@@ -1966,7 +1967,7 @@
 			}
 
 			#intro-wrapper {
-				padding-bottom: 8em;
+				padding-bottom: 4em;
 			}
 
 		/* Header */
@@ -2231,7 +2232,7 @@
 			}
 
 			#intro-wrapper {
-				padding-bottom: 7em;
+				padding-bottom: 3.5em;
 			}
 
 			#footer-wrapper hr {
@@ -2615,8 +2616,6 @@
 			#logo {
 				text-align: center;
 			}
-
-/* HEADER SHIT */
 				#logo h1 {
 					font-size: 1.25em;
 					letter-spacing: 0.2em;
