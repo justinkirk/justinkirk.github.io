@@ -48,6 +48,16 @@
 		-webkit-text-size-adjust: none;
 	}
 
+/* TRIAL */
+.container222{
+    text-align: center;
+}
+.category333{
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+}
 /* Box Model */
 
 	*, *:before, *:after {
@@ -1288,10 +1298,12 @@
 
 		header.style1 h2 {
 			font-weight: 700;
+			text-shadow: 1px 1px black;
 		}
 
 		header.style1 p {
-			color: #b1b4b9;
+			color: #fff;
+			text-shadow: 1px 1px black;
 		}
 
 /* Image */
@@ -1564,12 +1576,11 @@
 		.wrapper.style1 {
 			background: url("../../images/banner3.jpg") center center;
 			background-size: cover;
-			color: #eee;
-			color: rgba(255, 255, 255, 0.9);
+			color: rgba(255, 255, 255, 1);
 		}
 
 			.wrapper.style1 .title {
-				background: rgba(100, 100, 100, 0.75);
+				background: rgba(255, 255, 255, 0.5);
 				color: #fff;
 			}
 
@@ -1578,12 +1589,22 @@
 			}
 
 		.wrapper.style2 {
-			background: #fff;
+			background: url("../../images/banner1.jpg") center center;
+			background-size: cover;
+			color: rgba(255, 255, 255, 1);
 		}
 
 			.wrapper.style2 .title {
-				background: #fff;
-				color: #484d55;
+				background: rgba(255, 255, 255, 0.5);
+				color: #fff;
+			}
+
+			.wrapper.style2 h1, .wrapper.style2 h2, .wrapper.style2 h3, .wrapper.style2 h4, .wrapper.style2 h5, .wrapper.style2 h6, .wrapper.style2 strong, .wrapper.style2 b, .wrapper.style2 a {
+				color: #fff;
+				text-align: center;
+			}
+			.wrapper.style2 .image {
+				border: solid 10px rgba(255, 255, 255, 0.5);
 			}
 
 		.wrapper.style3 {
@@ -1723,6 +1744,7 @@
 /* Intro */
 
 	#intro > .style2 {
+		text-shadow: 1px 1px black;
 		font-weight: 700;
 		color: #fff;
 		border-radius: 0.35em;
@@ -1741,7 +1763,8 @@
 	}
 
 		#highlights .highlight h3 {
-			color: #e97770;
+			color: #000;
+			text-shadow: 1px 1px black
 		}
 
 /* Copyright */
@@ -1970,6 +1993,10 @@
 				padding-bottom: 4em;
 			}
 
+			#main-wrapper {
+				padding-bottom: 4em;
+			}
+
 		/* Header */
 
 			#header {
@@ -2129,6 +2156,8 @@
 					font-size: 1.1em;
 					width: 48em;
 					margin: 0 auto;
+					text-shadow: 1px 1px black;
+					text-align: left;
 				}
 
 		/* Features */
@@ -2138,11 +2167,11 @@
 			}
 
 				#features header.style1 {
-					padding-bottom: 5em;
+					padding-bottom: 0em;
 				}
 
 				#features .actions {
-					margin-top: 5em;
+					margin-top: 2.5em;
 				}
 
 		/* Highlights */
@@ -2232,6 +2261,10 @@
 			}
 
 			#intro-wrapper {
+				padding-bottom: 3.5em;
+			}
+
+			#main-wrapper {
 				padding-bottom: 3.5em;
 			}
 
