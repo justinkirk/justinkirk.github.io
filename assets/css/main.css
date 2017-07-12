@@ -1589,7 +1589,8 @@
 			}
 
 		.wrapper.style23 {
-			background: url("../../images/banner4.jpg") center center;
+			background: url("../../images/banner4.jpg");
+			background-position: center;
 			background-size: cover;
 			color: rgba(255, 255, 255, 1);
 		}
@@ -1608,7 +1609,7 @@
 			}
 
 		.wrapper.style2 {
-			background: #222227 url("images/overlay.png");
+			background: #192227 url("images/overlay.png");
 			color: rgba(255, 255, 255, 1);
 		}
 
