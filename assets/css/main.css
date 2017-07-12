@@ -1569,7 +1569,7 @@
 				bottom: -38px;
 				right: -35px;
 				width: 35px;
-				height: 38px;
+					height: 38px;
 				/*background: url("images/shadow.png");*/
 			}
 
@@ -1590,7 +1590,6 @@
 
 		.wrapper.style2 {
 			background: url("../../images/banner4.jpg") center center;
-			filter: grayscale(1);
 			background-size: cover;
 			color: rgba(255, 255, 255, 1);
 		}
