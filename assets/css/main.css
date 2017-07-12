@@ -1589,7 +1589,8 @@
 			}
 
 		.wrapper.style2 {
-			background: url("../../images/banner1.jpg") center center;
+			background: url("../../images/banner4.jpg") center center;
+			filter: grayscale(1);
 			background-size: cover;
 			color: rgba(255, 255, 255, 1);
 		}
@@ -2207,7 +2208,7 @@
 		/* Copyright */
 
 			#copyright {
-				margin: 6em 0 0 0;
+				margin: 2em 0 0 0;
 			}
 
 				#copyright ul {
@@ -2305,7 +2306,7 @@
 		/* Copyright */
 
 			#copyright {
-				margin: 3em 0 0 0;
+				margin: 2em 0 0 0;
 			}
 
 	}
@@ -2636,7 +2637,7 @@
 			}
 
 			#footer-wrapper {
-				padding: 6em 2em 6em 2em;
+				padding-top: 3em;
 			}
 
 				#footer-wrapper .feature-list section {
@@ -2707,7 +2708,7 @@
 		/* Copyright */
 
 			#copyright {
-				padding: 2em 0 0 0;
+				padding: 1em 0 0 0;
 			}
 
 				#copyright ul {
